@@ -3,3 +3,5 @@
 My favorite link is [BEST LINK EVER](https://github.com/DanilUltrakill/UIP3lab/blob/main/README.md).
 
 VOT ETO IZMENENIA
+
+Вас ЗАДУДОСИЛИ
