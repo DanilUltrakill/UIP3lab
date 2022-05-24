@@ -26,8 +26,6 @@ Quantum suicide is a thought experiment in quantum mechanics and the philosophy 
 Most experts hold that neither the experiment nor the related idea of immortality would work in the real world. 
 As a thought experiment, quantum suicide is an intellectual exercise in which an abstract setup is followed through to its logical consequences merely to prove a theoretical point.
 
-(Image)[Baby Yoda](https://images3.alphacoders.com/110/1108129.jpg)
-
 ## Quote
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
@@ -42,3 +40,6 @@ _______
 
             return p1.GetDistanceTo(p2);
         }
+
+
+![yes](https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg)
