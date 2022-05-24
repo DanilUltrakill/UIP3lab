@@ -1,4 +1,4 @@
-# UIP3lab изменил
+# UIP3lab
 
 Third lab of UIP
 
@@ -23,8 +23,7 @@ Third lab of UIP
 
 Quantum suicide is a thought experiment in quantum mechanics and the philosophy of physics.  
 
-Most experts hold that neither the experiment nor the related idea of immortality would work in the real world. 
-As a thought experiment, quantum suicide is an intellectual exercise in which an abstract setup is followed through to its logical consequences merely to prove a theoretical point.
+Этот оператор сравнивает значение в круглых скобках со значениями после case. Если значения совпадают, выполняет выражение или выражения после case, доходит до оператора break, после выходит из цикла и продолжает программу дальше. Если ни одно значение не совпадает, выполняет выражение после default. default можно и не писать.
 
 ## Quote
 
